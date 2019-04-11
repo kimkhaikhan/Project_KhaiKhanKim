@@ -1,0 +1,157 @@
+.hero {
+  height: 70vh;
+  background: url("about--background.jpg");
+  background-size: cover;
+  background-position: bottom center;
+  background-attachment: initial;
+}
+
+.hero h1, .hero h3, .hero p {
+  color: white; 
+}
+
+
+/* Header */
+.navbar {
+    border: 1px solid white;
+    background-color: black;
+    color: white;
+    padding: 10px 0px 20px 100px;
+}
+
+.logo-container {
+  margin-left:30px;
+}
+
+.logo {
+  height:52px;
+  margin-top: 20px;
+  margin-bottom: 20px;
+}
+
+.logo-name span {
+  font-size:16px;
+ }
+
+ .navbar li>a { 
+    display:block;
+    text-decoration:none;
+    margin:0 8px;
+    color:white;
+    padding:8px 0;
+    background-color:black;
+}
+
+.navbar-toggle {
+  border:1px so  lid #413f3f;
+}
+
+.navbar .container-fluid .row div .logo {
+    height:52px;
+ }
+
+ .navbar-collapse {
+   border-top:0px;
+}
+
+.navbar-right {
+  margin:0;
+  padding: 30px 0px 20px 0px;
+}
+
+.navbar-collapse {
+  border-top:0px;
+}
+
+.navbar-toggle .icon-bar {
+  background-color:white;
+}
+      
+.navbar-collapse {
+  border-top:0pxl;
+}
+
+.home {
+    margin: 20px 5px 5px 5px;  
+}
+
+  /* content */
+.content {
+  padding-top: 0vh;
+  padding-bottom: 28vh;
+}
+
+.mainBanner {
+  padding:180px 20px;
+  background-size:cover;
+  background-position:center center;
+  color:#4b3939;
+}
+
+  .mainBanner h1 {
+    margin:0;
+  }
+    
+.shadowBox {
+    padding:2em;
+    margin-bottom:2em;
+    -webkit-box-shadow:1px 1px 21px -4px   rgba(0, 0, 0, 0.75);
+    box-shadow:1px 1px 21px -4px rgba(0, 0, 0, 0.75);
+}
+      
+.shadowBox img {
+  width:100%;height:auto;
+}
+
+.packageRequest button {
+  width:200px;
+  height:40px;
+  font-size:14px;
+  background-color:#337ab7;
+  color:white;
+}
+ 
+.footer {
+    padding-top:40px;
+    margin:0px;
+    background-color:#0f0f25;
+    color:white;
+  }
+  
+  .footer .container div div {
+    padding:3.5px;
+  }
+  
+  .footer .container div div p {
+    padding-right:50px;
+  }
+  
+  .footer .container hr {
+    margin:0px;
+    padding:0px;
+    border:0.5px solid #797070;
+  }
+  
+  .footer-base {
+   padding-top:20px;
+   padding-bottom:60px;
+   background-color:#0f0f25;
+   color:white;
+  }
+
+           /* xxx---About---xxx */
+
+    .font-color {
+      color: red;
+    }
+
+    .footer-base { 
+      padding-top:20px;
+      padding-bottom:60px;
+      background-color:#0f0f25;
+      color:white;
+  }
+
+  .font-w {
+    color: white;
+  }
